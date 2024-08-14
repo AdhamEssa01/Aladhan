@@ -59,7 +59,7 @@ body {
 @media(max-width: 678px) {
     body {
         width: 100vw;
-        height: 200vh;
+        height: 250vh;
     }
     .cards {
         flex-direction: column;
