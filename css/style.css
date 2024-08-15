@@ -8,6 +8,7 @@ body {
     background-image: linear-gradient(45deg, #508C9B, #134B70);
     direction: rtl;
     height: 100vh;
+    overflow: hidden;
 }
 .title h1 {
     color: #EEEEEE;
@@ -60,6 +61,7 @@ body {
     body {
         width: 100vw;
         height: 200vh;
+        overflow: auto;
     }
     .cards {
         flex-direction: column;
