@@ -1,4 +1,4 @@
-fetch("https://api.aladhan.com/v1/timingsByCity/14-08-2024?city=cairo&country=egypt&method=8")
+fetch("https://api.aladhan.com/v1/timingsByCity?city=cairo&country=egypt&method=8")
     .then(response => response.json())
     .then(addAladhan);
 
