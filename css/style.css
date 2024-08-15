@@ -61,6 +61,7 @@ body {
     body {
         width: 100vw;
         height: 200vh;
+        overflow: auto;
     }
     .cards {
         flex-direction: column;
